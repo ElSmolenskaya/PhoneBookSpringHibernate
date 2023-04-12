@@ -1,0 +1,270 @@
+2023-04-12 21:04:35.271  INFO 18078 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18078 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:04:35.276 DEBUG 18078 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:04:35.277  INFO 18078 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:04:39.002  INFO 18078 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3595 ms
+2023-04-12 21:04:42.784  WARN 18078 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:04:43.214  INFO 18078 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 8.643 seconds (JVM running for 10.136)
+2023-04-12 21:04:58.177  INFO 18078 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:04:58.192  INFO 18078 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2023-04-12 21:04:58.976  INFO 18078 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:02.290  INFO 18078 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:31.824  INFO 18078 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:33.808  INFO 18078 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:37.643  INFO 18078 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:43.135  INFO 18078 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:05:45.256  INFO 18078 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:06:36.239  INFO 18078 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:06:37.115  INFO 18078 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:06:38.781  INFO 18078 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:06:39.364  INFO 18078 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:06:41.765  INFO 18078 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:07:37.027  INFO 18093 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18093 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:07:37.076 DEBUG 18093 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:07:37.082  INFO 18093 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:07:40.512  INFO 18093 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3151 ms
+2023-04-12 21:07:44.067  WARN 18093 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:07:44.476  INFO 18093 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 8.634 seconds (JVM running for 10.1)
+2023-04-12 21:07:50.018  INFO 18093 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:07:50.104  INFO 18093 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 85 ms
+2023-04-12 21:07:51.141  INFO 18093 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:07:54.760  INFO 18093 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:09:38.740  INFO 18100 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18100 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:09:38.744 DEBUG 18100 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:09:38.747  INFO 18100 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:09:41.452  INFO 18100 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2606 ms
+2023-04-12 21:09:44.253  WARN 18100 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:09:44.585  INFO 18100 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 6.749 seconds (JVM running for 8.093)
+2023-04-12 21:11:52.438  INFO 18100 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:11:52.454  INFO 18100 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2023-04-12 21:11:53.269  INFO 18100 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:11:56.746  INFO 18100 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:17.805  INFO 18100 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:20.253  INFO 18100 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:22.944  INFO 18100 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:35.235  INFO 18100 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:37.168  INFO 18100 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:39.750  INFO 18100 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:51.661  INFO 18100 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:53.804  INFO 18100 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:13:57.987  INFO 18100 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:03.006  INFO 18100 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:04.250  INFO 18100 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:04.613  INFO 18100 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:04.781  INFO 18100 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:15.993  INFO 18100 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:22.041  INFO 18100 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:24.240  INFO 18100 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:24.896  INFO 18100 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:25.381  INFO 18100 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:25.698  INFO 18100 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:25.929  INFO 18100 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:14:26.111  INFO 18100 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:14.221  INFO 18116 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18116 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:17:14.225 DEBUG 18116 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:17:14.226  INFO 18116 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:17:18.226  INFO 18116 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3903 ms
+2023-04-12 21:17:20.789  WARN 18116 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:17:21.081  INFO 18116 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 7.945 seconds (JVM running for 9.468)
+2023-04-12 21:17:21.326  INFO 18116 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:17:21.350  INFO 18116 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 23 ms
+2023-04-12 21:17:22.162  INFO 18116 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:27.357  INFO 18116 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:30.080  INFO 18116 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:33.475  INFO 18116 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:37.412  INFO 18116 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:51.195  INFO 18116 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:51.828  INFO 18116 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:17:52.027  INFO 18116 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:18:54.512  INFO 18131 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18131 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:18:54.516 DEBUG 18131 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:18:54.517  INFO 18131 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:18:57.671  INFO 18131 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2972 ms
+2023-04-12 21:19:00.537  WARN 18131 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:19:00.907  INFO 18131 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 7.159 seconds (JVM running for 8.494)
+2023-04-12 21:20:08.840  INFO 18131 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:20:08.907  INFO 18131 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 61 ms
+2023-04-12 21:20:09.922  INFO 18131 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:20:13.065  INFO 18131 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:20:15.159  INFO 18131 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:20:18.566  INFO 18131 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:22:08.281  INFO 18138 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18138 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:22:08.288 DEBUG 18138 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:22:08.290  INFO 18138 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:22:11.198  INFO 18138 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2781 ms
+2023-04-12 21:22:14.015  WARN 18138 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:22:14.391  INFO 18138 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 6.943 seconds (JVM running for 8.328)
+2023-04-12 21:22:22.158  INFO 18138 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:22:22.167  INFO 18138 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2023-04-12 21:22:22.891  INFO 18138 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:22:28.184  INFO 18138 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:22:30.387  INFO 18138 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:22:31.524  INFO 18138 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:22:48.946  INFO 18143 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18143 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:22:48.950 DEBUG 18143 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:22:48.954  INFO 18143 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:22:51.949  INFO 18143 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2845 ms
+2023-04-12 21:22:55.088  WARN 18143 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:22:55.460  INFO 18143 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 7.429 seconds (JVM running for 8.838)
+2023-04-12 21:23:10.620  INFO 18143 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:23:10.632  INFO 18143 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2023-04-12 21:23:11.127  INFO 18143 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:23:14.909  INFO 18143 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:23:18.230  INFO 18143 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:23:20.562  INFO 18143 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:23:23.985  INFO 18143 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:14.765  INFO 18155 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18155 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:27:14.773 DEBUG 18155 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:27:14.775  INFO 18155 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:27:17.818  INFO 18155 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2850 ms
+2023-04-12 21:27:20.384  WARN 18155 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:27:20.830  INFO 18155 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 6.604 seconds (JVM running for 7.855)
+2023-04-12 21:27:29.103  INFO 18155 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:27:29.117  INFO 18155 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2023-04-12 21:27:30.022  INFO 18155 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:33.360  INFO 18155 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:35.458  INFO 18155 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:38.610  INFO 18155 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:42.960  INFO 18155 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:44.208  INFO 18155 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:44.856  INFO 18155 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:45.056  INFO 18155 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:45.239  INFO 18155 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:45.406  INFO 18155 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:45.590  INFO 18155 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:46.206  INFO 18155 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:46.606  INFO 18155 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:46.825  INFO 18155 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:47.041  INFO 18155 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:47.710  INFO 18155 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:48.328  INFO 18155 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:27:51.669  INFO 18155 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:29:45.936  INFO 18162 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18162 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:29:45.942 DEBUG 18162 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:29:45.943  INFO 18162 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:29:51.134  INFO 18162 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4999 ms
+2023-04-12 21:29:54.539  WARN 18162 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:29:54.872  INFO 18162 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 9.645 seconds (JVM running for 10.777)
+2023-04-12 21:29:55.421  INFO 18162 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:29:55.438  INFO 18162 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2023-04-12 21:29:56.025  INFO 18162 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:29:59.988  INFO 18162 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:02.842  INFO 18162 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:05.489  INFO 18162 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:08.894  INFO 18162 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:19.337  INFO 18162 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:21.036  INFO 18162 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:42.335  INFO 18173 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18173 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:30:42.343 DEBUG 18173 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:30:42.349  INFO 18173 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:30:45.540  INFO 18173 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3045 ms
+2023-04-12 21:30:49.293  WARN 18173 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:30:49.576  INFO 18173 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 8.009 seconds (JVM running for 9.246)
+2023-04-12 21:30:51.281  INFO 18173 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:30:51.311  INFO 18173 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 28 ms
+2023-04-12 21:30:51.906  INFO 18173 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:55.267  INFO 18173 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:30:57.798  INFO 18173 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:31:01.873  INFO 18173 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:31:06.175  INFO 18173 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:31:11.068  INFO 18173 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:31:57.406  INFO 18180 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18180 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:31:57.413 DEBUG 18180 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:31:57.415  INFO 18180 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:32:01.803  INFO 18180 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4262 ms
+2023-04-12 21:32:04.686  WARN 18180 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:32:05.335  INFO 18180 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 8.679 seconds (JVM running for 9.956)
+2023-04-12 21:32:06.074  INFO 18180 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:32:06.085  INFO 18180 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2023-04-12 21:32:06.872  INFO 18180 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:10.076  INFO 18180 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:14.385  INFO 18180 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:17.541  INFO 18180 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:20.736  INFO 18180 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:26.254  INFO 18180 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:30.430  INFO 18180 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:31.363  INFO 18180 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:32.014  INFO 18180 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:32.281  INFO 18180 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:32:33.948  INFO 18180 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:34:41.413  INFO 18193 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18193 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:34:41.457 DEBUG 18193 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:34:41.462  INFO 18193 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:34:46.597  INFO 18193 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4851 ms
+2023-04-12 21:34:49.002  WARN 18193 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:34:49.238  INFO 18193 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 10.551 seconds (JVM running for 13.242)
+2023-04-12 21:34:49.756  INFO 18193 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:34:49.767  INFO 18193 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2023-04-12 21:34:50.548  INFO 18193 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:34:54.274  INFO 18193 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:34:57.068  INFO 18193 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:00.038  INFO 18193 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:03.726  INFO 18193 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:06.210  INFO 18193 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:08.230  INFO 18193 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:20.618  INFO 18193 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:21.911  INFO 18193 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:24.204  INFO 18193 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:26.379  INFO 18193 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:30.790  INFO 18193 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:32.224  INFO 18193 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:35:35.688  INFO 18193 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:42:19.058  INFO 18225 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18225 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:42:19.085 DEBUG 18225 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:42:19.087  INFO 18225 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:42:22.515  INFO 18225 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3275 ms
+2023-04-12 21:42:26.106  WARN 18225 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:42:26.972  INFO 18225 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 8.727 seconds (JVM running for 10.254)
+2023-04-12 21:42:27.176  INFO 18225 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:42:27.252  INFO 18225 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 76 ms
+2023-04-12 21:42:28.368  INFO 18225 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:42:32.329  INFO 18225 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:42:34.626  INFO 18225 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:42:38.238  INFO 18225 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:42:47.367  INFO 18225 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:04.777  INFO 18225 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:09.015  INFO 18225 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:13.465  INFO 18225 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:18.684  INFO 18225 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:21.419  INFO 18225 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:23.183  INFO 18225 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:26.906  INFO 18225 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:33.467  INFO 18225 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:37.067  INFO 18225 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:43:38.526  INFO 18225 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:49:36.746  INFO 18260 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18260 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:49:36.749 DEBUG 18260 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:49:36.751  INFO 18260 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:49:41.150  INFO 18260 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4253 ms
+2023-04-12 21:49:44.731  WARN 18260 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:49:45.406  INFO 18260 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 10.054 seconds (JVM running for 11.38)
+2023-04-12 21:49:50.187  INFO 18260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:49:50.209  INFO 18260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2023-04-12 21:49:51.034  INFO 18260 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:50:12.134  INFO 18260 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:50:49.640  INFO 18260 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:50:56.618  INFO 18260 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:50:58.789  INFO 18260 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:03.182  INFO 18260 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:12.973  INFO 18260 --- [http-nio-8080-exec-1] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:21.243  INFO 18260 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:25.002  INFO 18260 --- [http-nio-8080-exec-3] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:28.912  INFO 18260 --- [http-nio-8080-exec-5] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:32.310  INFO 18260 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:34.404  INFO 18260 --- [http-nio-8080-exec-7] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:37.641  INFO 18260 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:51:39.570  INFO 18260 --- [http-nio-8080-exec-9] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:53:49.510  INFO 18278 --- [main] ru.academits.PhonebookSpringApplication  : Starting PhonebookSpringApplication on MacBook-Air-Viktoria.local with PID 18278 (started by victory in /Users/victory/Desktop/JavaProgramming/Серверный web/Практика/PhoneBookSpringHibernate)
+2023-04-12 21:53:49.518 DEBUG 18278 --- [main] ru.academits.PhonebookSpringApplication  : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2023-04-12 21:53:49.520  INFO 18278 --- [main] ru.academits.PhonebookSpringApplication  : No active profile set, falling back to default profiles: default
+2023-04-12 21:53:54.216  INFO 18278 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4439 ms
+2023-04-12 21:53:57.854  WARN 18278 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-12 21:53:58.231  INFO 18278 --- [main] ru.academits.PhonebookSpringApplication  : Started PhonebookSpringApplication in 9.975 seconds (JVM running for 11.879)
+2023-04-12 21:53:59.304  INFO 18278 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 21:53:59.324  INFO 18278 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2023-04-12 21:54:00.206  INFO 18278 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:38.908  INFO 18278 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:41.918  INFO 18278 --- [http-nio-8080-exec-8] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:45.201  INFO 18278 --- [http-nio-8080-exec-10] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:48.387  INFO 18278 --- [http-nio-8080-exec-2] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:51.361  INFO 18278 --- [http-nio-8080-exec-4] r.a.controller.PhoneBookController       : called method getContacts
+2023-04-12 21:54:56.591  INFO 18278 --- [http-nio-8080-exec-6] r.a.controller.PhoneBookController       : called method getContacts
