@@ -1,12 +1,11 @@
 package ru.academits.service;
 
 import org.springframework.stereotype.Service;
-import ru.academits.hello.dao.ContactDao;
+import ru.academits.dao.ContactDao;
 import ru.academits.model.Contact;
 import ru.academits.model.ContactValidation;
 
 import java.util.List;
-import java.util.Objects;
 
 @Service
 public class ContactService {

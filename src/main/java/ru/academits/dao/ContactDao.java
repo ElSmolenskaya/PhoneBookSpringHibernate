@@ -1,4 +1,4 @@
-package ru.academits.hello.dao;
+package ru.academits.dao;
 
 import ru.academits.model.Contact;
 

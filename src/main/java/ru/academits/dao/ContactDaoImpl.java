@@ -1,4 +1,4 @@
-package ru.academits.hello.dao;
+package ru.academits.dao;
 
 import org.springframework.stereotype.Repository;
 import ru.academits.model.Contact;

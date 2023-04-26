@@ -1,4 +1,4 @@
-package ru.academits.hello.dao;
+package ru.academits.dao;
 
 import org.hibernate.criterion.Order;
 import org.springframework.transaction.annotation.Transactional;
