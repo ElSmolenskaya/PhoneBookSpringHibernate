@@ -1,0 +1,33 @@
+@startuml
+title Phonebook
+actor User
+participant Server
+database Database
+
+== getting contacts ==
+
+User -> Server: get contacts (term)
+Server -> Database: find contacts (term)
+Database --> Server: contact's list
+Server --> User: contact's list
+
+== adding contact ==
+
+User -> Server: add contact (object Contact)
+Server -> Database: create contact (object Contact)
+Server --> User: return validation information
+User -> Server: get contacts (term)
+Server -> Database: find contacts (term)
+Database --> Server: contact's list
+Server --> User: contact's list
+
+== deleting contacts ==
+
+User -> Server: delete contacts (ids array)
+Server -> Database: for i in (1..n) remove contact (ids[i])
+Server --> User: deleting information
+User -> Server: get contacts (term)
+Server -> Database: find contacts (term)
+Database --> Server: contact's list
+Server --> User: contact's list
+@enduml
